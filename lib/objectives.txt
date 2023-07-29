@@ -1,0 +1,48 @@
+Objectives
+- Change the navbar action press from a callback function to the routeName ✅
+- instead of adding navbar screens to the stack when clicked they should replace current navbar screen ✅
+- remove back button from all navbar screens ✅
+- remove navbar from profile screen ✅
+- fix navbar icons widths ✅
+
+--- Profile
+
+--- Fixes
+- Fix/Change Navbar
+- fix the logos with what was sent to you by Mr. J
+- abstract the color usage of the star color
+- Fix star ratings ⭐ - it isn't accurate
+- Use Sliver AppBar for widgets
+- Fix money formats for all, 
+
+--- Pages
+- Students view Page ✅
+- Courses view Page ✅
+- Reviews view Page ✅
+- View Cards (of all kinds) Page 
+- Carts ✅
+- Notifications Page
+- Virtual Students Feed
+- Search Page ✅
+- Upload Course Page
+- Undertaken Course Page
+
+- Students Navbar (Home, Search, Tasks, Notifications, Profile)
+
+
+
+
+
+Improvements
+- WelcomeScreen
+  - for the button, animate the the icon >
+- DashboardScreen
+  - Change the color of the Navbar when it gets to a certain point (the white background)
+- Navbar
+  - Test out a different navbar
+
+
+
+UI DEsigns
+- course view screen
+-
